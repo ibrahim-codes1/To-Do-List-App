@@ -13,7 +13,9 @@ A simple and clean Android To-Do List application built with **Java**. The app a
 
 ## Main Screen
 
-![Main Screen](screenshots/main.png)
+<img width="1080" height="2412" alt="To-Do List" src="https://github.com/user-attachments/assets/7d26b437-a10f-4220-abd6-1584623b3949" />
+<img width="1080" height="2412" alt="To-Do List2" src="https://github.com/user-attachments/assets/83907430-9f30-4bf3-9b9f-5d79961ab58e" />
+
 
 ---
 
