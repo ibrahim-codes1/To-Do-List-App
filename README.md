@@ -8,7 +8,8 @@ A simple and clean Android To-Do List application built with **Java**. The app a
 
 ## Splash Screen
 
-![Splash Screen](screenshots/splash.png)
+<img width="1080" height="2412" alt="splashscreen" src="https://github.com/user-attachments/assets/e114f194-2239-45fd-9e3e-377ee049aaf0" />
+
 
 ## Main Screen
 
